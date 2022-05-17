@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="shope_example_com">shope@example.com</string>
+    <string name="enter_password">Enter Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome ..</string>
+    <string name="go">Go</string>
+    <string name="instruction">Instruction</string>
+    <string name="you_are_now_a_clint_in_our_shop">You are now a clint in our shop</string>
+    <string name="instruction_information">we are sure you will choose the best shoes</string>
+    <string name="its_time_for_shopping_press_go">its time for shopping! press Go</string>
+    <string name="add_shoe_details">Add Shoe Details</string>
+    <string name="enter_shoe_name">Enter shoe Name</string>
+    <string name="enter_shoe_company">Enter shoe company</string>
+    <string name="enter_shoe_size">Enter Shoe Size</string>
+    <string name="enter_description">Enter description</string>
+    <string name="flat">flat</string>
+    <string name="loro_piana">LORO PIANA</string>
+    <string name="comfortable_etc">comfortable , etc..</string>
+    <string name="cn36">CN36</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="name">Name:</string>
+    <string name="size">Size:</string>
+    <string name="company">company:</string>
+    <string name="description">Description:</string>
+    <string name="logout">logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
 </resources>
